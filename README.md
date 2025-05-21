@@ -35,5 +35,5 @@ The simulation includes statistical validation through histograms and spectral a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/FlatFadingWirelessChannel.git
+   git clone https://github.com/SaganDog/FlatFadingWirelessChannel.git
    cd FlatFadingWirelessChannel/code
